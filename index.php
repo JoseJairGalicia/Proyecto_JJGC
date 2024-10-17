@@ -73,7 +73,7 @@ if (!empty($_SESSION['activa'])) {
                         <?php echo isset($alert) ? $alert : ""; ?>
                     </div>
                     <div class="mb-3">
-                        <label for="exampleInputEmail1" class="form-label">Correo electrónico</label>
+                        <label for="exampleInputEmail1" class="form-label">Correo de email</label>
                         <input type="email" class="form-control" id="correo" aria-describedby="emailHelp" name="correo">
                         <div id="emailHelp" class="form-text">No olvides ingresar tus datos!!.
                         </div>
