@@ -57,9 +57,9 @@ if (!empty($_SESSION['activa'])) {
 </head>
 
 <body>
-    <!--<div class="container" style="background-color: blueviolet;">
+  
         <h1>Bienvenidos</h1>
-    </div>--->
+ 
     <div class="container" style="padding-top:150px">
         <div class="row" style="background-color: rgb(253,219,170); text-align: center;">
             <div class="col" style="background-color: rgb(207,179,167);">
